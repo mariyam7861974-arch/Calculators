@@ -2,6 +2,9 @@
 #You can add, subtract, multiply, and divide
 #An operation can only be performed between TWO numbers
 
+print("Welcome to the Calculator!")
+print("Programmed by @ibrahim")
+
 def add():
     user_input1 = float(input("Please enter the first number: "))
     user_input2 = float(input("Please enter the second number: "))
